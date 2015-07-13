@@ -1,0 +1,26 @@
+.disciplina, .semestre {
+    font-size: 16px;
+    background: #bacbe5;    
+    border: solid 1px #000;
+    min-height: 100px;
+    max-height: 100px;
+    padding-top: 20px;
+}
+
+.semestre {
+    background: #96b4da;
+}
+
+.eletiva {
+    background: #d5e3bf;
+}
+
+.optativa {
+    background: #cdbfd8;
+}
+
+.jafiz {
+    background: red;
+    text-decoration: line-through;
+}
+
